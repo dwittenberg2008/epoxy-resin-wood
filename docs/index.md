@@ -1,6 +1,6 @@
-New site for notes
+New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk
 
-# Picking out woord
+# Picking out wood
 
 # Picking out epoxy
 
