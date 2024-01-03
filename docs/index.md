@@ -26,3 +26,4 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 
 # Adding Legs
 
+# Troubleshooting
