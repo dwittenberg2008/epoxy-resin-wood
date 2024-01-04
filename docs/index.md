@@ -1,4 +1,4 @@
-New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk
+New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk.  I've quoted people where I had the quotes that I got them from, sorry if I missed one but send me a correction and I'll get it fixed!
 
 # Picking Out The Wood
 
