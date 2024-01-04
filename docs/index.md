@@ -1,8 +1,8 @@
 New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk
 
-# Picking out wood
+# Picking Out The Wood
 
-# Picking Out Epoxy
+# Picking Out The Epoxy
 
 ### Tabletop
 
@@ -15,7 +15,7 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 ### Mica Powder
 
 # Tools You'll Want/Need
-- Some of these tools are optional depending on the project, but I'll list some known good tools I have used or others have reviewed.
+Some of these tools are optional depending on the project, but I'll list some known good tools I have used or others have reviewed.
 
 ### Router
 
@@ -37,9 +37,17 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 
 # Preparing the Wood
 
+### Removing any bark
+
+### Sealing the wood
+
 # Preparing the Epoxy
 
+### How to properly mix
+
 # Initial Pour
+
+### Watch the temperatures
 
 # Flood Coat
 
@@ -56,3 +64,9 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 # Adding Legs
 
 # Troubleshooting
+
+ * What to do if you get micro bubbles in the top coat?
+ ** Sand/router it down and re-pour a thin coat over the top
+ 
+ * What to do if you didn't pour enough and it shrinks down?
+ ** Pour another coat over top (should you do this as soon as possible or wait?)
