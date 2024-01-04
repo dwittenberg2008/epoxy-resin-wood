@@ -4,36 +4,36 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 
 # Picking Out Epoxy
 
-    ## Tabletop
+## Tabletop
 
-    ## Deep Pour
+## Deep Pour
 
-    ## Pigments
+## Pigments
 
-    ## Dyes
+## Dyes
 
-    ## Mica Powder
+## Mica Powder
 
 # Tools You'll Want/Need
 - Some of these tools are optional depending on the project, but I'll list some known good tools I have used or others have reviewed.
 
-    ## Router
+## Router
 
-    ## Router Bit
+## Router Bit
 
-    ## Router Bowtie template (optional)
+## Router Bowtie template (optional)
 
-    ## Orbital Sander
+## Orbital Sander
 
-    ## Epoxy Spreader
+## Epoxy Spreader
 
-    ## Epoxy Mixing Container
+## Epoxy Mixing Container
 
-    ## Epoxy Mixing Tool
+## Epoxy Mixing Tool
 
-    ## Silicon Mold (optional depending on project)
+## Silicon Mold (optional depending on project)
 
-    ## Heat Gun / Propane Torch
+## Heat Gun / Propane Torch
 
 # Preparing the Wood
 
