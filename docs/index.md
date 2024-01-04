@@ -73,8 +73,8 @@ Some of these tools are optional depending on the project, but I'll list some kn
 # Top Coat
 
 # Sanding the Wood
-* Sand Paper increments:  80, 100, 120, 150
-\* Note:  If you are going to use a top coat for the wood and not epoxy coat it, refer to the manufacturers recommendation for how fine to sand it
+* Sand Paper increments:  80, 100, 120 (wipe down with damp towl to "pop" the grain out between sanding)
+\* Note:  If you are going to use a top coat for the wood and you're not going epoxy coat it, refer to the manufacturers recommendation for how fine to sand it
 
 # Sanding the Epoxy
 * Sand Paper increments:  80, 100, 120, 150, 180, 220, 240, 320, 400, 600, 800, 1000, 1500, 2000, 3000
