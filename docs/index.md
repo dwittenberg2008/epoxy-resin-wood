@@ -5,6 +5,25 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 # Picking out epoxy
 
 # Tools You'll Want/Need
+- Some of these tools are optional depending on the project, but I'll list some known good tools I have used or others have reviewed.
+
+    # Router
+
+    # Router Bit
+
+    # Router Bowtie template (optional)
+
+    # Orbital Sander
+
+    # Epoxy Spreader
+
+    # Epoxy Mixing Container
+
+    # Epoxy Mixing Tool
+
+    # Silicon Mold (optional depending on project)
+
+    # Heat Gun / Propane Torch
 
 # Preparing the Wood
 
