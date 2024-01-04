@@ -22,12 +22,14 @@ Some of these tools are optional depending on the project, but I'll list some kn
 ### Router Bit
 
 ### Router Bowtie template
+1. [Rocker Bow Tie Kit] (https://www.rockler.com/rockler-bow-tie-inlay-starter-kit-with-frame-bit-and-bushing)
 
 ### Circular Saw Track Guide
 
-### Orbital Sander
+### Orbital Sander (with dust collector)
 
 ### Epoxy Spreader
+1. [Amazon - Dynatron](https://www.amazon.com/3M-358-Dynatron-Spreader/dp/B0015DMGD0/ref=sr_1_2?crid=13WEISCSRINXK&keywords=epoxy+resin+spreader+tool&qid=1704350460&sprefix=epoxy+resin+spread%2Caps%2C101&sr=8-2)
 
 ### Epoxy Mixing Container
 
@@ -35,7 +37,7 @@ Some of these tools are optional depending on the project, but I'll list some kn
 
 ### Silicon Molds
 
-1. [Crafted Elements (https://craftedelements.com/)
+1. [Crafted Elements](https://craftedelements.com/)
 * I haven't ordered from this place, yet, because of the projects I've done but heard great things about them, they have a great story and made in the USA!
 
 ### Heat Gun / Propane Torch
