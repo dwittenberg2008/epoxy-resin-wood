@@ -66,7 +66,7 @@ Some of these tools are optional depending on the project, but I'll list some kn
 # Troubleshooting
 
  * What to do if you get micro bubbles in the top coat?
- A. Sand/router it down and re-pour a thin coat over the top
+ 1. Sand/router it down and re-pour a thin coat over the top
 
  * What to do if you didn't pour enough and it shrinks down?
- A. Pour another coat over top (should you do this as soon as possible or wait?)
+ 1. Pour another coat over top (should you do this as soon as possible or wait?)
