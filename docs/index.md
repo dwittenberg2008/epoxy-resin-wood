@@ -46,6 +46,8 @@ Some of these tools are optional depending on the project, but I'll list some kn
 1. [Crafted Elements](https://craftedelements.com/)
 * I haven't ordered from this place, yet, because of the projects I've done but heard great things about them, they have a great story and made in the USA!
 
+### Pressure Pot
+
 ### Heat Gun / Propane Torch
 
 # Preparing the Wood
