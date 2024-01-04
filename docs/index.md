@@ -21,7 +21,9 @@ Some of these tools are optional depending on the project, but I'll list some kn
 
 ### Router Bit
 
-### Router Bowtie template (optional)
+### Router Bowtie template
+
+### Circular Saw Track Guide
 
 ### Orbital Sander
 
@@ -31,7 +33,10 @@ Some of these tools are optional depending on the project, but I'll list some kn
 
 ### Epoxy Mixing Tool
 
-### Silicon Mold (optional depending on project)
+### Silicon Molds
+
+1. [Crafted Elements (https://craftedelements.com/)
+* I haven't ordered from this place, yet, because of the projects I've done but heard great things about them, they have a great story and made in the USA!
 
 ### Heat Gun / Propane Torch
 
