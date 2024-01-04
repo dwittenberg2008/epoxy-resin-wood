@@ -55,6 +55,9 @@ Some of these tools are optional depending on the project, but I'll list some kn
 
 ### How to properly mix
 
+### How much mica powder to use?
+1.  "It depends"  - most people will say to mix until you like the look, but sometimes for first-timers that's hard to gauge so what I was told as a general starting rule, is: 1/2 teaspoon per liter for opaque looking (non-translucent), and 1/16 of a teaspoon for a translucent finish
+
 # Initial Pour
 
 ### Watch the temperatures
