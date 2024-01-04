@@ -14,6 +14,10 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 
 ### Mica Powder
 
+### Other ideas for coloring
+1. "Alcohol ink, liquid resin dye, acrylic paint. I’ve even added glitter glue to resin which made it so the glitter didn’t sink down" [Mladen Sakotic](https://www.facebook.com/groups/3519813941443536/user/546210525/?__cft__[0]=AZXMJ-FWAU1eN_523s9EDVMZzP42u1GPX7iX4chCGZf_8By5Z8RmuofHB7mpXJu6TAMEBSV5p-l8zsnrPA5qQ8cmHpL1wk3q0vnk9lOlH3yNOLpFMy7zA2UXmaM13gOdyRKI0jQusvb4QRwYS1IfBmoqZ5oTHd_7_y3hQix73I3Rgo2VWbICjaTP70GFGi_xpMA&__tn__=%2CdR]-R)
+
+
 # Tools You'll Want/Need
 Some of these tools are optional depending on the project, but I'll list some known good tools I have used or others have reviewed.
 
