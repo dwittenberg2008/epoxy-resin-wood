@@ -2,7 +2,17 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 
 # Picking out wood
 
-# Picking out epoxy
+# Picking Out Epoxy
+
+    # Tabletop
+
+    # Deep Pour
+
+    # Pigments
+
+    # Dyes
+
+    # Mica Powder
 
 # Tools You'll Want/Need
 - Some of these tools are optional depending on the project, but I'll list some known good tools I have used or others have reviewed.
