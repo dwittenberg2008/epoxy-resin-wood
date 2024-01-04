@@ -22,7 +22,7 @@ Some of these tools are optional depending on the project, but I'll list some kn
 ### Router Bit
 
 ### Router Bowtie template
-1. [Rocker Bow Tie Kit] (https://www.rockler.com/rockler-bow-tie-inlay-starter-kit-with-frame-bit-and-bushing)
+1. [Rocker Bow Tie Kit](https://www.rockler.com/rockler-bow-tie-inlay-starter-kit-with-frame-bit-and-bushing)
 
 ### Circular Saw Track Guide
 
