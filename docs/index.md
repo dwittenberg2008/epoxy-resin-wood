@@ -82,6 +82,13 @@ Some of these tools are optional depending on the project, but I'll list some kn
 # Final Coating the Wood
 Always follow the manufacturers cure times for best results!  Like sanding, no shortcuts here!
 
+\* NOTE: I could use some guidance on which of the Odie's works best for a natural wood finish
+\* NOTE:  I also like the idea of Odie's better, just because it doesn't contain the chemicals that Rubio or Osmo contain, personal preference
+
+* [Odie's Oil](https://odiesoil.com/odies-universal-oil-9oz/)
+
+* [Odie's Wax](https://odiesoil.com/odies-wax-9oz/)
+
 * [Rubio Monocoat](https://www.amazon.com/dp/B00OA5V19K/?coliid=I1P6A5JR617BBV&colid=YK7S3ZPC0Q95&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
 
 * [Osmo Polyx Hard Wax Oil](https://www.amazon.com/OSMO-Polyx-Hard-Wax-25-3/dp/B003RDW1UY/ref=pd_bxgy_d_sccl_1/133-8261450-8434823?pd_rd_w=phb15&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=F1QV3XBJ3MN3H8DNTR49&pd_rd_wg=R63aJ&pd_rd_r=5b5e2dbe-8b4b-458a-85c4-3cbdb9a8daa3&pd_rd_i=B003RDW1UY&psc=1)
