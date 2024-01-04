@@ -18,8 +18,10 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 Some of these tools are optional depending on the project, but I'll list some known good tools I have used or others have reviewed.
 
 ### Router
+1. [Harbor Freight - Herculeus](https://www.harborfreight.com/12-amp-variable-speed-fixed-base-router-with-plunge-base-kit-57368.html)
+* I only used this once so far, replacing a really old Black and Decker, so far so good!
 
-### Router Bit
+### Router Bit(s)
 
 ### Router Bowtie template
 1. [Rocker Bow Tie Kit](https://www.rockler.com/rockler-bow-tie-inlay-starter-kit-with-frame-bit-and-bushing)
@@ -45,6 +47,7 @@ Some of these tools are optional depending on the project, but I'll list some kn
 # Preparing the Wood
 
 ### Removing any bark
+* Unless you are going to 100% seal the bark, you'll want to remove it before starting the pour
 
 ### Sealing the wood
 
@@ -61,8 +64,11 @@ Some of these tools are optional depending on the project, but I'll list some kn
 # Top Coat
 
 # Sanding the Wood
+* Sand Paper increments:  80, 100, 120, 150
+\* Note:  If you are going to use a top coat for the wood and not epoxy coat it, refer to the manufacturers recommendation for how fine to sand it
 
 # Sanding the Epoxy
+* Sand Paper increments:  80, 100, 120, 150, 180, 220, 240, 320, 400, 600, 800, 1000, 1500, 2000, 3000
 
 # Final Coating the Wood
 
