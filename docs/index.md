@@ -85,8 +85,11 @@ Some of these tools are optional depending on the project, but I'll list some kn
 
 # Troubleshooting
 
- * What to do if you get micro bubbles in the top coat?
- 1. Sand/router it down and re-pour a thin coat over the top
+* What to do if you get micro bubbles in the top coat?
+1. Sand/router it down and re-pour a thin coat over the top
 
- * What to do if you didn't pour enough and it shrinks down?
- 1. Pour another coat over top (should you do this as soon as possible or wait?)
+* What to do if you didn't pour enough and it shrinks down?
+1. Pour another coat over top (should you do this as soon as possible or wait?)
+
+* "My last flood coat and it has fully set what grade sand paper should I rough it up with first"
+1. "a little more than 220 I use a 280", most comments are 220
