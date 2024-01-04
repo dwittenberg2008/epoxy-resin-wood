@@ -78,6 +78,11 @@ Some of these tools are optional depending on the project, but I'll list some kn
 * Sand Paper increments:  80, 100, 120, 150, 180, 220, 240, 320, 400, 600, 800, 1000, 1500, 2000, 3000
 
 # Final Coating the Wood
+* [Rubio Monocoat](https://www.amazon.com/dp/B00OA5V19K/?coliid=I1P6A5JR617BBV&colid=YK7S3ZPC0Q95&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+
+* [Osmo Wood Wax](https://www.amazon.com/Osmo-Wood-Finish-Extra-Clear/dp/B08KHWR2NK/ref=sr_1_1?crid=ASTAWBQLMEZG&keywords=osmo+wood+wax&qid=1704354295&s=hi&sprefix=osmo+wood+wax%2Ctools%2C219&sr=1-1)
+or ?
+* [Osmo Polyx Hard Wax Oil](https://www.amazon.com/OSMO-Polyx-Hard-Wax-25-3/dp/B003RDW1UY/ref=pd_bxgy_d_sccl_1/133-8261450-8434823?pd_rd_w=phb15&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=F1QV3XBJ3MN3H8DNTR49&pd_rd_wg=R63aJ&pd_rd_r=5b5e2dbe-8b4b-458a-85c4-3cbdb9a8daa3&pd_rd_i=B003RDW1UY&psc=1)
 
 # Final Coating the Epoxy
 
