@@ -82,8 +82,8 @@ Some of these tools are optional depending on the project, but I'll list some kn
 # Final Coating the Wood
 Always follow the manufacturers cure times for best results!  Like sanding, no shortcuts here!
 
-\* NOTE: I could use some guidance on which of the Odie's works best for a natural wood finish
-\* NOTE:  I also like the idea of Odie's better, just because it doesn't contain the chemicals that Rubio or Osmo contain, personal preference
+\* NOTE: I could use some guidance on which of the Odie's works best for a natural wood finish  
+\* NOTE:  I also like the idea of Odie's better, just because it doesn't contain the chemicals that Rubio or Osmo contain, personal preference  
 
 * [Odie's Oil](https://odiesoil.com/odies-universal-oil-9oz/)
 
