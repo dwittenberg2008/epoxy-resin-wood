@@ -51,6 +51,8 @@ Some of these tools are optional depending on the project, but I'll list some kn
 
 2. [Rusty Design-Canada](https://rustydesign.ca/collections/epoxy-silicone-molds)
 
+3. [Amazon-Kalinta](https://www.amazon.com/dp/B0BYTZ2HMM?ref_=cm_sw_r_apin_dp_Z2PKQD75P8BDFF9G0266&language=en-US&fbclid=IwAR3W-UmnUjWQEKasfFz3M7qiuGXaxtT35gTlK4gN-M2ZSy-128oJKeaGhYk&th=1)
+
 ### Pressure Pot (to be used while the epoxy cures)
 1. [Vevor](https://www.amazon.com/s?k=Vevor+pressure+pot&rh=n%3A228013%2Cp_89%3AVEVOR&dc&ds=v1%3AEHKZBfKgeTnHBqo95jY3O0e7reG3ft5u5FTWJDNFL9U&crid=35KCG5BR69QFE&qid=1704435633&rnid=2528832011&sprefix=vevor+pressure+pot%2Caps%2C105&ref=sr_nr_p_89_1)
 
@@ -90,8 +92,8 @@ Some of these tools are optional depending on the project, but I'll list some kn
 1.  "It depends"  - most people will say to mix until you like the look, but sometimes for first-timers that's hard to gauge so what I was told as a general starting rule, is: 1/2 teaspoon per liter for opaque looking (non-translucent), and 1/16 of a teaspoon for a translucent finish
 
 # Initial Pour
-
-### Watch the temperatures
+* Watch the temperatures
+* Sand with 120 and clean with 90% alcohol between pours
 
 # Flood Coat
 
