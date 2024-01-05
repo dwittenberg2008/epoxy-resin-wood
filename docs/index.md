@@ -51,7 +51,12 @@ Some of these tools are optional depending on the project, but I'll list some kn
 
 2. [Rusty Design-Canada](https://rustydesign.ca/collections/epoxy-silicone-molds)
 
-### Pressure Pot
+### Pressure Pot (to be used while the epoxy cures)
+1. [Vevor](https://www.amazon.com/s?k=Vevor+pressure+pot&rh=n%3A228013%2Cp_89%3AVEVOR&dc&ds=v1%3AEHKZBfKgeTnHBqo95jY3O0e7reG3ft5u5FTWJDNFL9U&crid=35KCG5BR69QFE&qid=1704435633&rnid=2528832011&sprefix=vevor+pressure+pot%2Caps%2C105&ref=sr_nr_p_89_1)
+
+### Vacum Pot (to be used to get the bubbles out of the resin before you pour)
+1. [Harbor Fright Vacuum Pump](https://www.harborfreight.com/search?q=PITTSBURGH+AUTOMOTIVE+vacuum+pump&brand=PITTSBURGH+AUTOMOTIVE&current=1&category=2145) - You still need a pot with this
+
 
 ### Heat Gun / Propane Torch
 1. [Harbor Freight Heat Gun](https://www.harborfreight.com/power-tools/heat-guns-seamers/heat-guns/1500-watt-11-amp-dual-temperature-heat-gun-56434.html)
