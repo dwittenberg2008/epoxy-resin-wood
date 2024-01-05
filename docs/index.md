@@ -9,6 +9,7 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 ### Deep Pour
 
 ### Pigments
+1. [Alumilite](https://www.amazon.com/stores/page/045E7360-2897-4A39-BCE6-D2089306F07A?ingress=2&visitId=2f83332f-21fd-4a41-8909-b5dab46507f6&ref_=ast_bln)  
 
 ### Dyes
 
@@ -133,3 +134,6 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 
 * "My last flood coat and it has fully set what grade sand paper should I rough it up with first"
 1. "a little more than 220 I use a 280", most comments are 220
+
+* "I am making an epoxy river table with 2 waterfall edges, when I assemble the waterfall would it be best to use wood glue or epoxy resin?"
+1. "Resin on the resin, glue on the wood"
