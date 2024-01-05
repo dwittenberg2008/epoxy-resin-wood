@@ -1,5 +1,10 @@
 New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk.  I've quoted people where I had the quotes that I got them from, sorry if I missed one but send me a correction and I'll get it fixed!
 
+# More Learning Resources
+* [Black Tail Online Class](https://www.blacktailstudio.com/resin-workshops-1)
+
+* [YouTube - The Beginners Guide To Expert Epoxy Tables](https://www.youtube.com/watch?v=PfpsJE93kp8)
+
 # Picking Out The Wood
 
 # Picking Out The Epoxy
