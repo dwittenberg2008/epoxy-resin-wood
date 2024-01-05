@@ -26,6 +26,8 @@ Some of these tools are optional depending on the project, but I'll list some kn
 * I only used this once so far, replacing a really old Black and Decker, so far so good!
 
 ### Router Bit(s)
+1.  [Trim Router Bit](https://www.amazon.com/dp/B0BLB7PB7P/?coliid=I12MQ57G4FD2GY&colid=RO6FI9B1DDGC&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+* This is not the exact one I use, similar, and I only used this one because I already had it, maybe there's a better one?
 
 ### Router Bowtie template
 1. [Rocker Bow Tie Kit](https://www.rockler.com/rockler-bow-tie-inlay-starter-kit-with-frame-bit-and-bushing)
