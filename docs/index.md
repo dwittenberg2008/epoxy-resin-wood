@@ -51,6 +51,12 @@ Some of these tools are optional depending on the project, but I'll list some kn
 ### Pressure Pot
 
 ### Heat Gun / Propane Torch
+1. [Harbor Freight Heat Gun](https://www.harborfreight.com/power-tools/heat-guns-seamers/heat-guns/1500-watt-11-amp-dual-temperature-heat-gun-56434.html)
+* So I haven't used this with epoxy yet, but I have had one for years and it's a basic heat gun, does the job.
+
+2. [Home Depot Propane Torch](https://www.homedepot.com/p/Bernzomatic-Trigger-Ignition-Start-Blow-Torch-Kit-with-14-1-oz-Handheld-Propane-Gas-Cylinder-and-Adjustable-Flame-333084/202539561)
+* Your basic torch you'll find about anywhere, though I do usually prefer the nicer torch if I'm using it a lot:
+* [Updated Torch](https://www.homedepot.com/p/Bernzomatic-Advanced-Performance-Torch-with-Instant-Start-Stop-Ignition-Compatible-with-Map-Pro-and-Propane-Gas-TS4000T/202185055)
 
 # Preparing the Wood
 
