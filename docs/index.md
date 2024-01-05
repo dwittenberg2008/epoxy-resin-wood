@@ -8,6 +8,8 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 
 ### Deep Pour
 
+# Picking Out Epoxy Coloring
+
 ### Pigments
 1. [Alumilite](https://www.amazon.com/stores/page/045E7360-2897-4A39-BCE6-D2089306F07A?ingress=2&visitId=2f83332f-21fd-4a41-8909-b5dab46507f6&ref_=ast_bln)  
 
