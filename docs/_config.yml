@@ -1,2 +1,4 @@
 disabled_theme: jekyll-theme-Slate
-remote_theme: Hyde
+disabled_remote_theme: Hyde
+remote_theme: Hamilton
+title: Epoxy / Resin & Wood Notes
