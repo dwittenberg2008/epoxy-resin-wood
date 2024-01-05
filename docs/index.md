@@ -48,6 +48,8 @@ Some of these tools are optional depending on the project, but I'll list some kn
 1. [Crafted Elements](https://craftedelements.com/)
 * I haven't ordered from this place, yet, because of the projects I've done but heard great things about them, they have a great story and made in the USA!
 
+2. [Rusty Design-Canada](https://rustydesign.ca/collections/epoxy-silicone-molds)
+
 ### Pressure Pot
 
 ### Heat Gun / Propane Torch
@@ -58,6 +60,9 @@ Some of these tools are optional depending on the project, but I'll list some kn
 * Your basic torch you'll find about anywhere, though I do usually prefer the nicer torch if I'm using it a lot:
 * [Updated Torch](https://www.homedepot.com/p/Bernzomatic-Advanced-Performance-Torch-with-Instant-Start-Stop-Ignition-Compatible-with-Map-Pro-and-Propane-Gas-TS4000T/202185055)
 
+# Types of Epoxy
+* [Rusty Design-Canada](https://rustydesign.ca/collections/epoxy)
+
 # Preparing the Wood
 
 ### Removing any bark
@@ -66,9 +71,12 @@ Some of these tools are optional depending on the project, but I'll list some kn
 ### Sealing the wood
 
 # Preparing the Epoxy
+1. Make sure you are storing your epoxy in a temperature controlled environment, and definitely don't let it freeze
+2. "Add the glitter or mix ins 40 mins after pouring and you will get an even dispersion."
 
 ### How to properly mix
 1. If you are mixing < 1 gallon it's recommended to stir it slowly by hand in order to not introduce bubbles
+2. Temperature of epoxy before/during mix needs to be no less than 65°F
 
 \*NOTE: At one stage here do you put the epoxy in the pressure pot?
 
@@ -106,9 +114,14 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 1. "I use a microfibre 100mm roller, and just roll it onto all my projects, though I've used a brush and rag at times too."
 2. Reportedly more toxic than Rubio, but just as good of a finish once it's cured.
 
+* [Walrus Oil]()
+1. Not sure about this one, but I've seen it mentioned a couple of times
+
 # Final Coating the Epoxy
 
 # Adding Legs
+\*NOTE: Seems to be one of the top asked questions, could use some good links to places that sell legs for those that can't build them
+1. [Rusty Design-Canada](https://rustydesign.ca/pages/table-legs)
 
 # Troubleshooting
 
