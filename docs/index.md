@@ -92,7 +92,8 @@ If there's a heavy amount:
 # Preparing the Wood
 
 ### Removing any bark
-* Unless you are going to 100% seal the bark, you'll want to remove it before starting the pour
+* Unless you are going to 100% seal the bark, you'll want to remove it before starting the pour.  
+* Another option I have heard works is to carefully take the bark off, and use some wood glue to put it back on and clamp it tight.  
 
 ### Sealing the wood
 
