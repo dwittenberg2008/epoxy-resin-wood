@@ -13,6 +13,7 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 ### Tabletop
 
 ### Deep Pour
+1. [Liquid Glass](https://www.amazon.com/stores/FGCI/page/E085BC53-E753-4B20-8A47-EB341E8F79A4?ref_=ast_bln)
 
 # Picking Out Epoxy Coloring
 
