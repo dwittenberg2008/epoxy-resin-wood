@@ -98,6 +98,7 @@ If there's a heavy amount:
 # Preparing the Epoxy
 1. Make sure you are storing your epoxy in a temperature controlled environment, and definitely don't let it freeze
 2. "Add the glitter or mix ins 40 mins after pouring and you will get an even dispersion."
+3. "Aim to have about 70% wood to 30% epoxy ratio when laying out your piece" - heard this from an "expert" but not sure the reasoning
 
 ### How to properly mix
 1. If you are mixing < 1 gallon it's recommended to stir it slowly by hand in order to not introduce bubbles
