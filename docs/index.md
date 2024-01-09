@@ -1,4 +1,4 @@
-New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk.  I've quoted people where I had the quotes that I got them from, sorry if I missed one but send me a correction and I'll get it fixed!
+New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk.  Some of this info has been collected from websites, YouTube, and the [Epoxy Resin Advices and Tips](https://www.facebook.com/groups/3519813941443536) Facebook page.  I've quoted people where I had the quotes that I got them from, sorry if I missed one but send me a correction and I'll get it fixed!
 
 # More Learning Resources
 * [Black Tail Online Class](https://www.blacktailstudio.com/resin-workshops-1)
@@ -10,6 +10,9 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 
 # Picking Out The Epoxy
 
+### Minor scratches and cracks
+1. [Gorilla Clear Epoxy](https://www.gorillatough.com/product/gorilla-epoxy/)
+   
 ### Tabletop
 1. [Stone Coat Countertop](https://www.stonecoatcountertops.com/stone-coat-gallon-kit/)
 2. [TotalBoat](https://www.totalboat.com/products/table-top-epoxy-crystal-clear-resin)
