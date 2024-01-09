@@ -158,6 +158,7 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 1. Not sure about this one, but I've seen it mentioned a couple of times
 
 # Final Coating the Epoxy
+1. What's a good polish?  Obviously the epoxy will need to be sanded per the above instructions.
 
 # Adding Legs
 \*NOTE: Seems to be one of the top asked questions, could use some good links to places that sell legs for those that can't build them
