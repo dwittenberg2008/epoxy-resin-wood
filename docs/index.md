@@ -56,7 +56,7 @@ Some of these tools are optional depending on the project, but I'll list some kn
 1.  Hammer & Chisel
 2.  Wire brush  
 
-If there's a heavy amount:
+If there's a heavy amount:  
 3. Draw Knife  
 4. Drill with Cup Wire Brush
 
