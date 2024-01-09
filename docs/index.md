@@ -17,6 +17,7 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 ### Tabletop
 1. [Stone Coat Countertop](https://www.stonecoatcountertops.com/stone-coat-gallon-kit/)
 2. [TotalBoat](https://www.totalboat.com/products/table-top-epoxy-crystal-clear-resin)
+3. [Rusty Design - Canada](https://rustydesign.ca/collections/epoxy)
 
 ### Deep Pour
 1. [Liquid Glass](https://www.amazon.com/stores/FGCI/page/E085BC53-E753-4B20-8A47-EB341E8F79A4?ref_=ast_bln)
@@ -92,9 +93,6 @@ If there's a heavy amount:
 2. [Home Depot Propane Torch](https://www.homedepot.com/p/Bernzomatic-Trigger-Ignition-Start-Blow-Torch-Kit-with-14-1-oz-Handheld-Propane-Gas-Cylinder-and-Adjustable-Flame-333084/202539561)
 * Your basic torch you'll find about anywhere, though I do usually prefer the nicer torch if I'm using it a lot:
 * [Updated Torch](https://www.homedepot.com/p/Bernzomatic-Advanced-Performance-Torch-with-Instant-Start-Stop-Ignition-Compatible-with-Map-Pro-and-Propane-Gas-TS4000T/202185055)
-
-# Types of Epoxy
-* [Rusty Design-Canada](https://rustydesign.ca/collections/epoxy)
 
 # Preparing the Wood
 
