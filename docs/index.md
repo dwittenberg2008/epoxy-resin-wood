@@ -67,8 +67,13 @@ If there's a heavy amount:
 1. [Amazon - Dynatron](https://www.amazon.com/3M-358-Dynatron-Spreader/dp/B0015DMGD0/ref=sr_1_2?crid=13WEISCSRINXK&keywords=epoxy+resin+spreader+tool&qid=1704350460&sprefix=epoxy+resin+spread%2Caps%2C101&sr=8-2)
 
 ### Epoxy Mixing Container
-
+There are a lot of variations of these, I think it really just depends on how much you are pouring at one time.  One trick I saw someone use  
+was to put rice into the spots to fill, then pull the rice out and measure how much.  I haven't tried it yet, but looked promising!  
+1. [Plastic Graduated Mixing Cups - Amazon](https://www.amazon.com/gp/product/B08HNCGY4N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
+   
 ### Epoxy Mixing Tool
+There's a ton of different ones like this, not sure if there's good/bad ones to look for, I tried these and worked good so far.
+1. [Silicone Mixing Paddles - Amazon](https://www.amazon.com/gp/product/B0BN6V2695/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 
 ### Silicon Molds
 
