@@ -106,6 +106,7 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 * Another option I have heard works is to carefully take the bark off, and use some wood glue to put it back on and clamp it tight.  
 
 ### Sealing the wood
+1. Use the same epoxy that you will be doing your pour with, just brush it on as the first coat to make sure to seal the wood and keep out the bubbles.
 
 # Preparing the Epoxy
 1. Make sure you are storing your epoxy in a temperature controlled environment, and definitely don't let it freeze
