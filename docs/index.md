@@ -58,8 +58,8 @@ Some of these tools are optional depending on the project, but I'll list some kn
 2.  Wire brush  
 
 If there's a heavy amount:  
-3. Draw Knife  
-4. Drill with Cup Wire Brush
+  3. Draw Knife  
+  4. Drill with Cup Wire Brush
 
 ### Orbital Sander (with dust collector)
 
