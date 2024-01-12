@@ -108,6 +108,10 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 ### Sealing the wood
 1. Use the same epoxy that you will be doing your pour with, just brush it on as the first coat to make sure to seal the wood and keep out the bubbles.
 
+# Prepare Your Mold
+* Can be made of many materials, melamine works well if making your own, see the list above for pre-made
+* Whatever type you use, make sure it's sealed all around so as you pour it's not seaping out.  I recommend watching it carefully to make sure so you can fix if it does.
+
 # Preparing the Epoxy
 1. Make sure you are storing your epoxy in a temperature controlled environment, and definitely don't let it freeze
 2. "Add the glitter or mix ins 40 mins after pouring and you will get an even dispersion."
