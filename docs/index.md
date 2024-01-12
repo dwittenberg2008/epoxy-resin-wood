@@ -140,7 +140,9 @@ Flood coats are coats of epoxy that are about ⅛” thick and cover the entire 
 \* Note:  If you are going to use a top coat for the wood and you're not going epoxy coat it, refer to the manufacturers recommendation for how fine to sand it
 
 # Sanding the Epoxy
-* Sand Paper increments:  80, 100, 120, 150, 180, 220, 240, 320, 400, 600, 800, 1000, 1500, 2000, 3000
+* Dry Sand increments:  80, 100, 120, 150, 180, 220
+* Wet Sand increments: 240, 320, 400, 600, 800, 1000, 1500, 2000, 3000
+* Polish (epoxy only!) with ceramic car wax
 
 # Final Coating the Wood
 Always follow the manufacturers cure times for best results!  Like sanding, no shortcuts here!
