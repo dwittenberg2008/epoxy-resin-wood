@@ -7,7 +7,8 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 * [YouTube - The Beginners Guide To Expert Epoxy Tables](https://www.youtube.com/watch?v=PfpsJE93kp8)
 
 # Picking Out The Wood
-* Make sure the moisture content is below 12%
+* Make sure the moisture content is below 12%.
+* I've also read this can highly depend on your meter too, some read high and some read low, so the general consensus seems to be 5-10% is better.
 
 # Picking Out The Epoxy
 
