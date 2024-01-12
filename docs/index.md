@@ -111,6 +111,7 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 # Prepare Your Mold
 * Can be made of many materials, melamine works well if making your own, see the list above for pre-made
 * Whatever type you use, make sure it's sealed all around so as you pour it's not seaping out.  I recommend watching it carefully to make sure so you can fix if it does.
+* You can also cover your mold with a Mold Release product (need a link here), which will help ensure that your project comes out of the mold easier.
 
 # Preparing the Epoxy
 1. Make sure you are storing your epoxy in a temperature controlled environment, and definitely don't let it freeze
