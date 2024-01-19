@@ -1,6 +1,7 @@
 Advices
 Alumilite
 approvers
+Bowtie
 Countertop
 dev
 docx
@@ -12,14 +13,15 @@ lang
 md
 microfibre
 mins
-Mladeno
+Mladen
 Monocoat
 Odie's
 Osmo
 pandoc
 png
-Poyx
+Polyx
 pre
+Rockler
 Rubio
 Sakotic
 seaping
