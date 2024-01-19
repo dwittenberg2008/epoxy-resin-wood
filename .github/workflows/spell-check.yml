@@ -12,6 +12,6 @@ jobs:
       name: Spellcheck
       with:
         config_path: resources/.spellcheck.yml
-        source_files: README.md src/readme.md
+        source_files: README.md docs/index.md
         task_name: Markdown
 

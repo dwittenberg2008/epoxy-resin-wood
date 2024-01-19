@@ -1,0 +1,14 @@
+approvers
+dev
+docx
+jpg
+lang
+md
+pandoc
+png
+src
+titlepage
+toc
+www
+yaml
+yml
