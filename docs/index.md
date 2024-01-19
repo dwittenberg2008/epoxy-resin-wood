@@ -133,7 +133,7 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 * Sand with 120 and clean with 90% alcohol between pours
 
 # Flood Coat
-Flood coats are coats of epoxy that are about ⅛” thick and cover the entire epoxy project. Their purpose is to complete the project, adding a glossy finish [Upstart Epoxy](https://www.upstartepoxy.com/blogs/news/epoxy-resin-flood-coat-tutorial#:~:text=Flood%20coats%20are%20coats%20of,coats%20as%20you'd%20like.)
+Flood coats are coats of epoxy that are about 1/8" thick and cover the entire epoxy project. Their purpose is to complete the project, adding a glossy finish [Upstart Epoxy](https://www.upstartepoxy.com/blogs/news/epoxy-resin-flood-coat-tutorial#:~:text=Flood%20coats%20are%20coats%20of,coats%20as%20you'd%20like.)
 
 # Sanding the Wood
 * Sand Paper increments:  80, 100, 120 (wipe down with damp towel to "pop" the grain out between sanding)
