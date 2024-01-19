@@ -1,0 +1,53 @@
+name: Generate Documentation
+
+on: [push,pull_request]
+
+jobs:
+  pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "DATE=$(date +'%x')" >> $GITHUB_OUTPUT
+
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Create main output directory
+        run: mkdir output/
+
+      - name: Create output directory doc one
+        run: mkdir output/
+
+      - name: Create the variablized header - doc one
+        uses: docker://pandoc/extra:latest
+        with:
+          args: >-
+            templates/header.md
+            --variable date:${{ steps.date.outputs.DATE }}
+            --template templates/header.md
+            -o output/header.md
+
+      - name: Create the Doc output - doc one
+        uses: docker://pandoc/extra:latest
+        with:
+          args: >-
+            -f markdown
+            -s output/header.md
+            -s docs/index.md
+            --write docx+styles
+            -o output/epoxy-resin-wood.docx
+
+      - name: Create the PDF output - doc one
+        uses: docker://pandoc/extra:latest
+        with:
+          args: >-
+            -o output/epoxy-resin-wood.pdf
+            output/epoxy-resin-wood.docx
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: output
+          path: output
+
