@@ -42,7 +42,7 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 Some of these tools are optional depending on the project, but I'll list some known good tools I have used or others have reviewed.
 
 ### Router
-1. [Harbor Freight - Herculeus](https://www.harborfreight.com/12-amp-variable-speed-fixed-base-router-with-plunge-base-kit-57368.html)
+1. [Harbor Freight - Hercules](https://www.harborfreight.com/12-amp-variable-speed-fixed-base-router-with-plunge-base-kit-57368.html)
 * I only used this once so far, replacing a really old Black and Decker, so far so good!
 
 ### Router Bit(s)
@@ -111,7 +111,7 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 
 # Prepare Your Mold
 * Can be made of many materials, melamine works well if making your own, see the list above for pre-made
-* Whatever type you use, make sure it's sealed all around so as you pour it's not seaping out.  I recommend watching it carefully to make sure so you can fix if it does.
+* Whatever type you use, make sure it's sealed all around so as you pour it's not seeping out.  I recommend watching it carefully to make sure so you can fix if it does.
 * You can also cover your mold with a Mold Release product (need a link here), which will help ensure that your project comes out of the mold easier.
 
 # Preparing the Epoxy
@@ -136,7 +136,7 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 Flood coats are coats of epoxy that are about ⅛” thick and cover the entire epoxy project. Their purpose is to complete the project, adding a glossy finish [Upstart Epoxy](https://www.upstartepoxy.com/blogs/news/epoxy-resin-flood-coat-tutorial#:~:text=Flood%20coats%20are%20coats%20of,coats%20as%20you'd%20like.)
 
 # Sanding the Wood
-* Sand Paper increments:  80, 100, 120 (wipe down with damp towl to "pop" the grain out between sanding)
+* Sand Paper increments:  80, 100, 120 (wipe down with damp towel to "pop" the grain out between sanding)
 \* Note:  If you are going to use a top coat for the wood and you're not going epoxy coat it, refer to the manufacturers recommendation for how fine to sand it
 
 # Sanding the Epoxy
