@@ -29,6 +29,7 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 ### Pigments
 1. [Alumilite](https://www.amazon.com/stores/page/045E7360-2897-4A39-BCE6-D2089306F07A?ingress=2&visitId=2f83332f-21fd-4a41-8909-b5dab46507f6&ref_=ast_bln)  
 2. [Beaver Dust](https://beaverdust.com/en-us/collections/all-pigments)
+3. [Eye Candy](https://eyecandypigments.com/)
 
 ### Dyes
 
