@@ -171,6 +171,7 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 # Adding Legs
 \*NOTE: Seems to be one of the top asked questions, could use some good links to places that sell legs for those that can't build them
 1. [Rusty Design-Canada](https://rustydesign.ca/pages/table-legs)
+2. [Flowyline](https://flowyline.com/collections/all?sort_by=best-selling)
 
 # Troubleshooting
 
