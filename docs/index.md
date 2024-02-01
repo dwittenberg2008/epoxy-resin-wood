@@ -7,6 +7,7 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 * [YouTube - The Beginners Guide To Expert Epoxy Tables](https://www.youtube.com/watch?v=PfpsJE93kp8)
 * [Epoxy Resin Art and Craft E-Book](https://artandcraftofficial.gumroad.com/l/craftresinart?fbclid=IwAR10Q1zaQeseqYe8_M1EQ5ZWvIYfWRYFAMNuI--2yLwMXwLOOcOS_0aqdVQ)
 * [YouTube - How To Make Epoxy Resin Ocean Waves](https://www.youtube.com/watch?v=cBPlg0jnNOQ)
+* [YouTube - The Beginners Guide To Expert Epoxy Tables](https://www.youtube.com/watch?v=PfpsJE93kp8)
   
 # Picking Out The Wood
 * Make sure the moisture content is below 12%.
