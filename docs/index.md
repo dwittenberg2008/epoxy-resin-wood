@@ -17,12 +17,14 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
    
 ### Tabletop
 1. [Stone Coat Countertop](https://www.stonecoatcountertops.com/stone-coat-gallon-kit/)
-2. [TotalBoat](https://www.totalboat.com/products/table-top-epoxy-crystal-clear-resin)
+2. [TotalBoat](https://www.totalboat.com/products/table-top-epoxy-crystal-)-resin)
 3. [Rusty Design - Canada](https://rustydesign.ca/collections/epoxy)
+4. [Epodex](https://www.epodex.us/product/countertop-tabletop-epoxy-resin-kit/)
 
 ### Deep Pour
 1. [Liquid Glass](https://www.amazon.com/stores/FGCI/page/E085BC53-E753-4B20-8A47-EB341E8F79A4?ref_=ast_bln)
 2. [TotalBoat](https://www.totalboat.com/products/thickset-deep-pour-clear-epoxy?variant=43151092318432&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopeSQK4Iz6Yf4ml6_bxTnv03gXV-yo8BwuOSC6Be7hJuiayzF0TQRo)
+3. [Epodex](https://www.epodex.us/product/deep-pour-casting-epoxy-resin-kit/)
 
 # Picking Out Epoxy Coloring
 
