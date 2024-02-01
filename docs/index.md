@@ -5,6 +5,7 @@ New site for notes that I've been making while learning about epoxy/resin wood t
   
 I'm sure there are a ton of YouTube videos, most I found skimmed over some parts, and deeper in others, so you might have to watch a lot, and also why I started taking these notes  
 * [YouTube - The Beginners Guide To Expert Epoxy Tables](https://www.youtube.com/watch?v=PfpsJE93kp8)
+* [Epoxy Resin Art and Craft E-Book](https://artandcraftofficial.gumroad.com/l/craftresinart?fbclid=IwAR10Q1zaQeseqYe8_M1EQ5ZWvIYfWRYFAMNuI--2yLwMXwLOOcOS_0aqdVQ)
 
 # Picking Out The Wood
 * Make sure the moisture content is below 12%.
