@@ -149,7 +149,8 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 * Sand with 120 and clean with 90% alcohol between pours
 
 # Flood Coat
-Flood coats are coats of epoxy that are about 1/8" thick and cover the entire epoxy project. Their purpose is to complete the project, adding a glossy finish [Upstart Epoxy](https://www.upstartepoxy.com/blogs/news/epoxy-resin-flood-coat-tutorial)
+Flood coats are coats of epoxy that are about 1/8" thick and cover the entire epoxy project. Their purpose is to complete the project, adding a glossy finish  
+[Upstart Epoxy](https://www.upstartepoxy.com/blogs/news/epoxy-resin-flood-coat-tutorial)
 
 # Sanding the Wood
 * Sand Paper increments:  80, 100, 120 (wipe down with damp towel to "pop" the grain out between sanding)
@@ -177,21 +178,19 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 * [Osmo Polyx Hard Wax Oil](https://www.amazon.com/OSMO-Polyx-Hard-Wax-25-3/dp/B003RDW1UY/ref=pd_bxgy_d_sccl_1/133-8261450-8434823?pd_rd_w=phb15&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=F1QV3XBJ3MN3H8DNTR49&pd_rd_wg=R63aJ&pd_rd_r=5b5e2dbe-8b4b-458a-85c4-3cbdb9a8daa3&pd_rd_i=B003RDW1UY&psc=1)
 1. "I use a microfibre 100mm roller, and just roll it onto all my projects, though I've used a brush and rag at times too."
 2. Reportedly more toxic than Rubio, but just as good of a finish once it's cured.
-  
-  
-** General consensus seems to be that putting a coat of ceramic car wax over the top of your wood finish will help reduce scratches and give it a better shine
-  
-  
+   
 * [Walrus Oil]()
 1. Not sure about this one, but I've seen it mentioned a couple of times
-
+ 
+** General consensus seems to be that putting a coat of ceramic car wax over the top of your wood finish will help reduce scratches and give it a better shine
+  
 # Final Coating the Epoxy
 1. What's a good polish?  Obviously the epoxy will need to be sanded per the above instructions.
 
 # Adding Legs
 \*NOTE: Seems to be one of the top asked questions, could use some good links to places that sell legs for those that can't build them
-1. [Rusty Design-Canada](https://rustydesign.ca/pages/table-legs)
-2. [Flowyline](https://flowyline.com/collections/all?sort_by=best-selling)
+1. [Flowyline](https://flowyline.com/collections/all?sort_by=best-selling)
+2. [Rusty Design-Canada](https://rustydesign.ca/pages/table-legs)
 
 # Troubleshooting
 
