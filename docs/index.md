@@ -177,7 +177,11 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 * [Osmo Polyx Hard Wax Oil](https://www.amazon.com/OSMO-Polyx-Hard-Wax-25-3/dp/B003RDW1UY/ref=pd_bxgy_d_sccl_1/133-8261450-8434823?pd_rd_w=phb15&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=F1QV3XBJ3MN3H8DNTR49&pd_rd_wg=R63aJ&pd_rd_r=5b5e2dbe-8b4b-458a-85c4-3cbdb9a8daa3&pd_rd_i=B003RDW1UY&psc=1)
 1. "I use a microfibre 100mm roller, and just roll it onto all my projects, though I've used a brush and rag at times too."
 2. Reportedly more toxic than Rubio, but just as good of a finish once it's cured.
-
+  
+  
+** General consensus seems to be that putting a coat of ceramic car wax over the top of your wood finish will help reduce scratches and give it a better shine
+  
+  
 * [Walrus Oil]()
 1. Not sure about this one, but I've seen it mentioned a couple of times
 
