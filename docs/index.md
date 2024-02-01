@@ -96,6 +96,7 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 
 ### Vacum Pot (to be used to get the bubbles out of the resin before you pour)
 1. [Harbor Fright Vacuum Pump](https://www.harborfreight.com/search?q=PITTSBURGH+AUTOMOTIVE+vacuum+pump&brand=PITTSBURGH+AUTOMOTIVE&current=1&category=2145) - You still need a pot with this
+2. [Bacoeng 3 Gallon w/Pump](https://www.amazon.com/BACOENG-Degassing-Stabilizing-Silicones-Essential/dp/B07WZSF3MX/ref=sr_1_3?crid=2E6GYUVKJ4VHC&keywords=Bacoeng+3+gallon+vacuum+pot+and+pump&qid=1706754094&sprefix=bacoeng+3+gallon+vacuum+pot+and+pump%2Caps%2C173&sr=8-3&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)
 
 
 ### Heat Gun / Propane Torch
