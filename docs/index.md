@@ -6,7 +6,8 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 I'm sure there are a ton of YouTube videos, most I found skimmed over some parts, and deeper in others, so you might have to watch a lot, and also why I started taking these notes  
 * [YouTube - The Beginners Guide To Expert Epoxy Tables](https://www.youtube.com/watch?v=PfpsJE93kp8)
 * [Epoxy Resin Art and Craft E-Book](https://artandcraftofficial.gumroad.com/l/craftresinart?fbclid=IwAR10Q1zaQeseqYe8_M1EQ5ZWvIYfWRYFAMNuI--2yLwMXwLOOcOS_0aqdVQ)
-
+* [YouTube - How To Make Epoxy Resin Ocean Waves](https://www.youtube.com/watch?v=cBPlg0jnNOQ)
+  
 # Picking Out The Wood
 * Make sure the moisture content is below 12%.
 * I've also read this can highly depend on your meter too, some read high and some read low, so the general consensus seems to be 5-10% is better.
