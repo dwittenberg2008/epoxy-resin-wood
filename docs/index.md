@@ -20,7 +20,7 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
    
 ### Tabletop
 1. [Stone Coat Countertop](https://www.stonecoatcountertops.com/stone-coat-gallon-kit/)
-2. [TotalBoat](https://www.totalboat.com/products/table-top-epoxy-crystal-)-resin)
+2. [TotalBoat](https://www.totalboat.com/products/table-top-epoxy-crystal--resin)
 3. [Rusty Design - Canada](https://rustydesign.ca/collections/epoxy)
 4. [Epodex](https://www.epodex.us/product/countertop-tabletop-epoxy-resin-kit/)
 
