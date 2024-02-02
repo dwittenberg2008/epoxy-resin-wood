@@ -92,6 +92,9 @@ If there's a heavy amount:
 There are a lot of variations of these, I think it really just depends on how much you are pouring at one time.  One trick I saw someone use  
 was to put rice into the spots to fill, then pull the rice out and measure how much.  I haven't tried it yet, but looked promising!  
 1. [Plastic Graduated Mixing Cups - Amazon](https://www.amazon.com/gp/product/B08HNCGY4N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
+2. [Silicone Graduated Mixing Cups, 3 sizes - Amazon](https://www.amazon.com/iSi-Set-Flexible-Measuring-Cups/dp/B001CDBBY8/ref=sr_1_22?crid=3J36LR5BK2HZZ&keywords=gallon%2BClear%2BGraduated%2Bsilicone%2BMixing%2BCups&qid=1706842631&s=home-garden&sprefix=gallon%2Bclear%2Bgraduated%2Bsilicone%2Bmixing%2Bcups%2Cgarden%2C77&sr=1-22&th=1)
+3. [5 Gallon Plastic Bucket - Zoro](https://www.zoro.com/kraft-tool-mixing-bucket-11-78-in-w-x-15-in-l-5-gal-translucent-plastic-gg468/i/G5067745/?utm_source=google&utm_medium=surfaces&utm_campaign=shopping%20feed&utm_content=free%20google%20shopping%20clicks&campaignid=20749401279&productid=G5067745&v=&gad_source=1&gclid=EAIaIQobChMIpurxytWLhAMV3U9HAR3yqgBSEAQYByABEgLDx_D_BwE&gclsrc=aw.ds)
+4. 
    
 ### Epoxy Mixing Tool
 There's a ton of different ones like this, not sure if there's good/bad ones to look for, I tried these and worked good so far.
@@ -144,6 +147,7 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 ### How to properly mix
 1. If you are mixing < 1 gallon it's recommended to stir it slowly by hand in order to not introduce bubbles
 2. Temperature of epoxy before/during mix needs to be no less than 65°F
+3. Generally, deep pour is 2:1 mix ratio, and tabletop is 1:1, but ALWAYS look at the manufacturers labels first
 
 \*NOTE: At one stage here do you put the epoxy in the pressure pot?
 
