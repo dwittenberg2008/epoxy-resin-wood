@@ -24,7 +24,7 @@ Osmo
 pandoc
 Pigmently
 png
-Polershine
+Polarshine
 Polyx
 POWERTEC
 pre
