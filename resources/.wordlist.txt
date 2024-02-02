@@ -22,6 +22,7 @@ Monocoat
 Odie's
 Osmo
 pandoc
+Pigmently
 png
 Polyx
 POWERTEC
