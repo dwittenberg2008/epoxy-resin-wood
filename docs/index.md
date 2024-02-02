@@ -213,3 +213,7 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 
 * "I am making an epoxy river table with 2 waterfall edges, when I assemble the waterfall would it be best to use wood glue or epoxy resin?"
   1. "Resin on the resin, glue on the wood"
+
+* "What would cause the clear epoxy to come out milky color?"
+  1. "It's either moisture in the wood, or if you did multiple coats of finish, the previous coat(s) was not fully cured before re-coating."
+  2. "Mixed too vigorously micro bubbles"
