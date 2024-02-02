@@ -24,6 +24,7 @@ Osmo
 pandoc
 png
 Polyx
+POWERTEC
 pre
 Rockler
 Rubio
