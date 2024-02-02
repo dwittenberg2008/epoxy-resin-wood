@@ -191,7 +191,9 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 ** General consensus seems to be that putting a coat of ceramic car wax over the top of your wood finish will help reduce scratches and give it a better shine
   
 # Final Coating the Epoxy
-1. What's a good polish?  Obviously the epoxy will need to be sanded per the above instructions.
+1. Obviously the epoxy will need to be sanded per the above instructions.
+2. [Polarshine 10 Polishing Compound](https://www.mirka.com/en/p/POLARSHINE-10)
+
 
 # Adding Legs
 \*NOTE: Seems to be one of the top asked questions, could use some good links to places that sell legs for those that can't build them
