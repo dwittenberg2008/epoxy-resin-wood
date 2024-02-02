@@ -39,6 +39,8 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 2. [Beaver Dust](https://beaverdust.com/en-us/collections/all-pigments)
 3. [Eye Candy](https://eyecandypigments.com/)
 4. [Black Diamond Pigments](https://www.blackdiamondpigments.com/collections/pigments)
+5. [Pigmently - Liquid Pigment](https://www.bestbartopepoxy.com/collections/epoxy-liquid-pigments)
+6. [Pigmently - Powder Pigment](https://www.bestbartopepoxy.com/collections/epoxy-powder-pigments)
 
 ### Dyes
 
