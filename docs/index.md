@@ -208,17 +208,21 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 
 # Troubleshooting
 
-* What to do if you get micro bubbles in the top coat?
-  1. Sand/router it down and re-pour a thin coat over the top
+1. What to do if you get micro bubbles in the top coat?
+  * Sand/router it down and re-pour a thin coat over the top
 
-* What to do if you didn't pour enough and it shrinks down?
-  1. Pour another coat over top (should you do this as soon as possible or wait?)
+2. What to do if you didn't pour enough and it shrinks down?
+  * Pour another coat over top (should you do this as soon as possible or wait?)
 
-* "My last flood coat and it has fully set what grade sand paper should I rough it up with first"
-  1. "a little more than 220 I use a 280", most comments are 220
+3. "My last flood coat and it has fully set what grade sand paper should I rough it up with first"
+  * "A little more than 220 I use a 280", most comments are 220
 
-* "I am making an epoxy river table with 2 waterfall edges, when I assemble the waterfall would it be best to use wood glue or epoxy resin?"
-  1. "Resin on the resin, glue on the wood"
+4. "I am making an epoxy river table with 2 waterfall edges, when I assemble the waterfall would it be best to use wood glue or epoxy resin?"
+  * "Resin on the resin, glue on the wood"
+ 
+5. How do you clean off epoxy when done or before another pour on top?
+  * Use 90% isopropyl alcohol to make sure everything else is removed
+    
 
 * "What would cause the clear epoxy to come out milky color?"
   1. "It's either moisture in the wood, or if you did multiple coats of finish, the previous coat(s) was not fully cured before re-coating."
