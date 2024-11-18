@@ -58,8 +58,7 @@ Some of these tools are optional depending on the project, but I'll list some kn
 * I only used this once so far, replacing a really old Black and Decker, so far so good!
 
 ### Router Bit(s)
-1.  [Surfacing Router Bit](https://www.amazon.com/CNC-Router-Shank-Wood-NITOMAK/dp/B07WQG85HV/ref=sr_1_5?crid=1IR4DQLVTDKB0&dib=eyJ2IjoiMSJ9.Qu0LF7ZpbCdJQ721sUkvK8rNBzRfXN9IwdZ0mRNuV8fZB3cnMJEkVthA-3d6PckHkPZY2n2Joaz2-06V4Z25Eg.32kqyRniedwU6G7D7A-dycPsTVIxMf7DTXB-N1mNo9Y&dib_tag=se&keywords=2%22+surfacing+router+bit&qid=1705043132&sprefix=2+surfacing+router+bit%2Caps%2C87&sr=8-5)
-* This is not the exact one I use, similar, and I only used this one because I already had it, maybe there's a better one?
+1.  [Surfacing Router Bit](https://www.amazon.com/gp/product/B07WQG85HV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ### Router Sled
 1. DIY
@@ -72,8 +71,14 @@ Some of these tools are optional depending on the project, but I'll list some kn
 
 ### Router Bowtie template
 1. [Rockler Bow Tie Kit](https://www.rockler.com/rockler-bow-tie-inlay-starter-kit-with-frame-bit-and-bushing)
+  
+### Router Circle Cutting
+1. [Rocker Circle Cutting Jig](https://www.amazon.com/gp/product/B0052KF69I/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+2. [Spiral Upcut Bit](https://www.amazon.com/dp/B000K2BGNS?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  
 
 ### Circular Saw Track Guide
+1. [Kreg Accu-Cut](https://www.amazon.com/Kreg-KMA2700-Circular-Saw-Track/dp/B073PGP96S/ref=sr_1_1?crid=38M9R0RS3FLE7&dib=eyJ2IjoiMSJ9.XWo58sPoN67ITBS-km89HsQXWncNB7svlnUjhCnKVkLdcgymhcjNzSzMd178MjVnPsMfl5UJOb54q7tu0EErDv7VMr1bU4lZZ-xSnakseOV-CgkAbuE126Ph99uN2vK22xQTRhvq9TK9GShfsJRfI2dwJz-1780DLP5Nb7COOb40nbi_aKMqjlgNxWq-wzPSqDVtUF50JsteBhMma5jaT3Se5_BiViAkUJ0Gkpnl5M4GechIgHLDM3wnlSaEmFo5Ezs9AArVdCrNjpny-b0MIfLh5UfNsgR9I3sKfSFw_-s.IwCxBZjYGxw1JQyEM7GEK1bStqswm5LzLmmQhj051xM&dib_tag=se&keywords=Kreg%C2%AE+Accu-Cut%E2%84%A2+Circular+Saw+Guide+Track+System+Model+Number%3A+KMA2700&qid=1731889525&sprefix=kreg+accu-cut+circular+saw+guide+track+system+model+number+kma2700%2Caps%2C125&sr=8-1)  
 
 ### If Removing Bark
 1.  Hammer & Chisel
@@ -84,6 +89,7 @@ If there's a heavy amount:
   4. Drill with Cup Wire Brush
 
 ### Orbital Sander (with dust collector)
+1.  
 
 ### Epoxy Spreader
 1. [Amazon - Dynatron](https://www.amazon.com/3M-358-Dynatron-Spreader/dp/B0015DMGD0/ref=sr_1_2?crid=13WEISCSRINXK&keywords=epoxy+resin+spreader+tool&qid=1704350460&sprefix=epoxy+resin+spread%2Caps%2C101&sr=8-2)
@@ -94,7 +100,7 @@ was to put rice into the spots to fill, then pull the rice out and measure how m
 1. [Plastic Graduated Mixing Cups - Amazon](https://www.amazon.com/gp/product/B08HNCGY4N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 2. [Silicone Graduated Mixing Cups, 3 sizes - Amazon](https://www.amazon.com/iSi-Set-Flexible-Measuring-Cups/dp/B001CDBBY8/ref=sr_1_22?crid=3J36LR5BK2HZZ&keywords=gallon%2BClear%2BGraduated%2Bsilicone%2BMixing%2BCups&qid=1706842631&s=home-garden&sprefix=gallon%2Bclear%2Bgraduated%2Bsilicone%2Bmixing%2Bcups%2Cgarden%2C77&sr=1-22&th=1)
 3. [5 Gallon Plastic Bucket - Zoro](https://www.zoro.com/kraft-tool-mixing-bucket-11-78-in-w-x-15-in-l-5-gal-translucent-plastic-gg468/i/G5067745/?utm_source=google&utm_medium=surfaces&utm_campaign=shopping%20feed&utm_content=free%20google%20shopping%20clicks&campaignid=20749401279&productid=G5067745&v=&gad_source=1&gclid=EAIaIQobChMIpurxytWLhAMV3U9HAR3yqgBSEAQYByABEgLDx_D_BwE&gclsrc=aw.ds)
-4. 
+4. [64oz Plastic Graduated Mixing Cups - Amazon](https://www.amazon.com/dp/B00A6DGE9C?ref=ppx_yo2ov_dt_b_fed_asin_title)
    
 ### Epoxy Mixing Tool
 There's a ton of different ones like this, not sure if there's good/bad ones to look for, I tried these and worked good so far.
@@ -156,7 +162,7 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 
 # Initial Pour
 * Watch the temperatures
-* Sand with 120 and clean with 90% alcohol between pours
+* Sand with 120 grit sandpaper and clean with 90% alcohol between pours
 
 # Flood Coat
 Flood coats are coats of epoxy that are about 1/8" thick and cover the entire epoxy project. Their purpose is to complete the project, adding a glossy finish  
@@ -219,10 +225,10 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 
 4. "I am making an epoxy river table with 2 waterfall edges, when I assemble the waterfall would it be best to use wood glue or epoxy resin?"
   * "Resin on the resin, glue on the wood"
- 
+  
 5. How do you clean off epoxy when done or before another pour on top?
   * Use 90% isopropyl alcohol to make sure everything else is removed
-    
+  
 
 * "What would cause the clear epoxy to come out milky color?"
   1. "It's either moisture in the wood, or if you did multiple coats of finish, the previous coat(s) was not fully cured before re-coating."
