@@ -2,7 +2,7 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 
 # More Learning Resources
 * [Black Tail Online Class](https://www.blacktailstudio.com/resin-workshops-1)
-- Watch for the Black Friday sales for the classes, totally worth it!
+** Watch for the Black Friday sales for the classes, totally worth it!
   
   
 I'm sure there are a ton of YouTube videos, most I found skimmed over some parts, and deeper in others, so you might have to watch a lot, and also why I started taking these notes  
