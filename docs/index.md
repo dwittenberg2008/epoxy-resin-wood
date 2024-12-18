@@ -2,6 +2,8 @@ New site for notes that I've been making while learning about epoxy/resin wood t
 
 # More Learning Resources
 * [Black Tail Online Class](https://www.blacktailstudio.com/resin-workshops-1)
+- Watch for the Black Friday sales for the classes, totally worth it!
+  
   
 I'm sure there are a ton of YouTube videos, most I found skimmed over some parts, and deeper in others, so you might have to watch a lot, and also why I started taking these notes  
 * [YouTube - The Beginners Guide To Expert Epoxy Tables](https://www.youtube.com/watch?v=PfpsJE93kp8)
@@ -53,12 +55,32 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 # Tools You'll Want/Need
 Some of these tools are optional depending on the project, but I'll list some known good tools I have used or others have reviewed.
 
+### Safety / PPE Gear
+1. Full face mask
+- [Amazon - Honeywell](https://www.amazon.com/gp/product/B001VY3ACE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+1A. Full face mask + respirator
+- [Amazon - Wytcyic](https://www.amazon.com/gp/product/B09STDKD5W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+2. Respirator
+- [Need Link](http://www.linkhere.com)
+3. Hearing protection
+- [Need Link](http://www.linkhere.com)
+4. Leather Apron
+* This one is more optional, I have found I like mine so when you get hit with a stray word or epoxy splinter it doesn't hurt
+- [Amazon - FIGHTECH](https://www.amazon.com/gp/product/B07VN1V2L5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+5. Nitrile Gloves
+- [Harbor Freight](https://www.harborfreight.com/safety/gloves/disposable-gloves/9-mil-nitrile-powder-free-gloves-50-pack-68511.html)
+  
+
+### Large vacuum
+1. Many shop vacums to choose from, but you should have one with decent capacity and suction power  
+
 ### Router
 1. [Harbor Freight - Hercules](https://www.harborfreight.com/12-amp-variable-speed-fixed-base-router-with-plunge-base-kit-57368.html)
-* I only used this once so far, replacing a really old Black and Decker, so far so good!
+  
 
 ### Router Bit(s)
 1.  [Surfacing Router Bit](https://www.amazon.com/gp/product/B07WQG85HV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+  
 
 ### Router Sled
 1. DIY
@@ -81,12 +103,14 @@ Some of these tools are optional depending on the project, but I'll list some kn
 1. [Kreg Accu-Cut](https://www.amazon.com/Kreg-KMA2700-Circular-Saw-Track/dp/B073PGP96S/ref=sr_1_1?crid=38M9R0RS3FLE7&dib=eyJ2IjoiMSJ9.XWo58sPoN67ITBS-km89HsQXWncNB7svlnUjhCnKVkLdcgymhcjNzSzMd178MjVnPsMfl5UJOb54q7tu0EErDv7VMr1bU4lZZ-xSnakseOV-CgkAbuE126Ph99uN2vK22xQTRhvq9TK9GShfsJRfI2dwJz-1780DLP5Nb7COOb40nbi_aKMqjlgNxWq-wzPSqDVtUF50JsteBhMma5jaT3Se5_BiViAkUJ0Gkpnl5M4GechIgHLDM3wnlSaEmFo5Ezs9AArVdCrNjpny-b0MIfLh5UfNsgR9I3sKfSFw_-s.IwCxBZjYGxw1JQyEM7GEK1bStqswm5LzLmmQhj051xM&dib_tag=se&keywords=Kreg%C2%AE+Accu-Cut%E2%84%A2+Circular+Saw+Guide+Track+System+Model+Number%3A+KMA2700&qid=1731889525&sprefix=kreg+accu-cut+circular+saw+guide+track+system+model+number+kma2700%2Caps%2C125&sr=8-1)  
 
 ### If Removing Bark
-1.  Hammer & Chisel
-2.  Wire brush  
+  1.  Hammer & Chisel
+  2.  Wire brush  
 
 If there's a heavy amount:  
   3. Draw Knife  
-  4. Drill with Cup Wire Brush
+  4. Drill with cup wire brush  
+  5. Angle grinder with wire brush  
+  6. Drill with Nylon wheel/brushes, they aren't as aggressive on the wood
 
 ### Orbital Sander (with dust collector)
 1.  
