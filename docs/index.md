@@ -1,8 +1,7 @@
 New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk.  Some of this info has been collected from websites, YouTube, and the [Epoxy Resin Advices and Tips](https://www.facebook.com/groups/3519813941443536) Facebook page.  I've quoted people where I had the quotes that I got them from, sorry if I missed one but send me a correction and I'll get it fixed!
 
 # More Learning Resources
-* [Black Tail Online Class](https://www.blacktailstudio.com/resin-workshops-1)
-** Watch for the Black Friday sales for the classes, totally worth it!
+* [Black Tail Online Class](https://www.blacktailstudio.com/resin-workshops-1) - **NOTE** Watch for the Black Friday sales for the classes, totally worth it!
   
   
 I'm sure there are a ton of YouTube videos, most I found skimmed over some parts, and deeper in others, so you might have to watch a lot, and also why I started taking these notes  
@@ -150,9 +149,9 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 
 ### Heat Gun / Propane Torch
 1. [Harbor Freight Heat Gun](https://www.harborfreight.com/power-tools/heat-guns-seamers/heat-guns/1500-watt-11-amp-dual-temperature-heat-gun-56434.html)
-* So I haven't used this with epoxy yet, but I have had one for years and it's a basic heat gun, does the job.
-
-2. [Home Depot Propane Torch](https://www.homedepot.com/p/Bernzomatic-Trigger-Ignition-Start-Blow-Torch-Kit-with-14-1-oz-Handheld-Propane-Gas-Cylinder-and-Adjustable-Flame-333084/202539561)
+2. [Menards](https://www.menards.com/main/paint/painting-tools/wagner-reg-furno-heat-gun/0503070/p-1470660690198-c-8076.htm?exp=false)
+  
+3. [Home Depot Propane Torch](https://www.homedepot.com/p/Bernzomatic-Trigger-Ignition-Start-Blow-Torch-Kit-with-14-1-oz-Handheld-Propane-Gas-Cylinder-and-Adjustable-Flame-333084/202539561)
 * Your basic torch you'll find about anywhere, though I do usually prefer the nicer torch if I'm using it a lot:
 * [Updated Torch](https://www.homedepot.com/p/Bernzomatic-Advanced-Performance-Torch-with-Instant-Start-Stop-Ignition-Compatible-with-Map-Pro-and-Propane-Gas-TS4000T/202185055)
 
@@ -168,7 +167,7 @@ There's a ton of different ones like this, not sure if there's good/bad ones to 
 # Prepare Your Mold
 * Can be made of many materials, melamine works well if making your own, see the list above for pre-made
 * Whatever type you use, make sure it's sealed all around so as you pour it's not seeping out.  I recommend watching it carefully to make sure so you can fix if it does.
-* You can also cover your mold with a Mold Release product (need a link here), which will help ensure that your project comes out of the mold easier.
+* You should also cover your mold with a Mold Release product (need a link here), which will help ensure that your project comes out of the mold easier.
 
 # Preparing the Epoxy
 1. Make sure you are storing your epoxy in a temperature controlled environment, and definitely don't let it freeze
