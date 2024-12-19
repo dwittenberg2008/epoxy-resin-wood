@@ -35,17 +35,15 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 
 # Picking Out Epoxy Coloring
 
-### Pigments
+### Pigments - Dyes - Mica Powder - Coloring
 1. [Alumilite](https://www.amazon.com/stores/page/045E7360-2897-4A39-BCE6-D2089306F07A?ingress=2&visitId=2f83332f-21fd-4a41-8909-b5dab46507f6&ref_=ast_bln)  
 2. [Beaver Dust](https://beaverdust.com/en-us/collections/all-pigments)
 3. [Eye Candy](https://eyecandypigments.com/)
 4. [Black Diamond Pigments](https://www.blackdiamondpigments.com/collections/pigments)
 5. [Pigmently - Liquid Pigment](https://www.bestbartopepoxy.com/collections/epoxy-liquid-pigments)
 6. [Pigmently - Powder Pigment](https://www.bestbartopepoxy.com/collections/epoxy-powder-pigments)
+7. [Health of Mind Art](https://www.healthofmindart.com/pages/art-supplies)
 
-### Dyes
-1. [Health of Mind Art](https://www.healthofmindart.com/pages/art-supplies)
-### Mica Powder
 
 ### Other ideas for coloring
 1. "Alcohol ink, liquid resin dye, acrylic paint. I’ve even added glitter glue to resin which made it so the glitter didn’t sink down" [Mladen Sakotic](https://www.facebook.com/groups/3519813941443536/user/546210525/?__cft__[0]=AZXMJ-FWAU1eN_523s9EDVMZzP42u1GPX7iX4chCGZf_8By5Z8RmuofHB7mpXJu6TAMEBSV5p-l8zsnrPA5qQ8cmHpL1wk3q0vnk9lOlH3yNOLpFMy7zA2UXmaM13gOdyRKI0jQusvb4QRwYS1IfBmoqZ5oTHd_7_y3hQix73I3Rgo2VWbICjaTP70GFGi_xpMA&__tn__=%2CdR]-R)

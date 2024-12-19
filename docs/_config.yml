@@ -2,6 +2,6 @@ disabled_theme: jekyll-theme-Slate
 disabled_remote_theme: Hyde
 remote_theme: Hamilton
 skin: Daylight
-title: Epoxy / Resin & Wood Notes
+title: Epoxy / Resin & Wood Notes - {{ page.last_modified_at }}
 author: Daniel Wittenberg
 email: dwittenberg2008@gmail.com
