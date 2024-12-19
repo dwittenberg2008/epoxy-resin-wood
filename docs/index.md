@@ -6,7 +6,7 @@
     const day = String(date.getDate()).padStart(2, '0');
     const formattedDate = `${year} ${month} ${day}`;
     document.getElementById("last-modified").textContent =
-      "Last updated on: " + formattedDate;
+      "Last updated on: " + lastModified.toLocaleString();
   });
 </script>
 
