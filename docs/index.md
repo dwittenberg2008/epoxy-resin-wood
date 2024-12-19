@@ -44,7 +44,7 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 6. [Pigmently - Powder Pigment](https://www.bestbartopepoxy.com/collections/epoxy-powder-pigments)
 
 ### Dyes
-
+1. [Health of Mind Art](https://www.healthofmindart.com/pages/art-supplies)
 ### Mica Powder
 
 ### Other ideas for coloring
@@ -90,13 +90,16 @@ Some of these tools are optional depending on the project, but I'll list some kn
 4. [Stuff 2 Make Stuff](https://s2ms.com/collections/router-sleds)
 5. [Woodpeckers Flatting Mill](https://toolstoday.com/woodpeckers-slbflt-basic-slab-flattening-mill.html)
 
-### Router Bowtie template
+### Router Templates
 1. [Rockler Bow Tie Kit](https://www.rockler.com/rockler-bow-tie-inlay-starter-kit-with-frame-bit-and-bushing)
-  
+2. [Health of Mind Art](https://www.healthofmindart.com/collections/charcuterie-router-templates)
+
 ### Router Circle Cutting
 1. [Rocker Circle Cutting Jig](https://www.amazon.com/gp/product/B0052KF69I/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 2. [Spiral Upcut Bit](https://www.amazon.com/dp/B000K2BGNS?ref=ppx_yo2ov_dt_b_fed_asin_title)
   
+### Router C-Channel Cutting
+1. [Health of Mind Art](https://www.healthofmindart.com/collections/threaded-inserts-c-channels/products/c-channel-routing-template)
 
 ### Circular Saw Track Guide
 1. [Kreg Accu-Cut](https://www.amazon.com/Kreg-KMA2700-Circular-Saw-Track/dp/B073PGP96S/ref=sr_1_1?crid=38M9R0RS3FLE7&dib=eyJ2IjoiMSJ9.XWo58sPoN67ITBS-km89HsQXWncNB7svlnUjhCnKVkLdcgymhcjNzSzMd178MjVnPsMfl5UJOb54q7tu0EErDv7VMr1bU4lZZ-xSnakseOV-CgkAbuE126Ph99uN2vK22xQTRhvq9TK9GShfsJRfI2dwJz-1780DLP5Nb7COOb40nbi_aKMqjlgNxWq-wzPSqDVtUF50JsteBhMma5jaT3Se5_BiViAkUJ0Gkpnl5M4GechIgHLDM3wnlSaEmFo5Ezs9AArVdCrNjpny-b0MIfLh5UfNsgR9I3sKfSFw_-s.IwCxBZjYGxw1JQyEM7GEK1bStqswm5LzLmmQhj051xM&dib_tag=se&keywords=Kreg%C2%AE+Accu-Cut%E2%84%A2+Circular+Saw+Guide+Track+System+Model+Number%3A+KMA2700&qid=1731889525&sprefix=kreg+accu-cut+circular+saw+guide+track+system+model+number+kma2700%2Caps%2C125&sr=8-1)  
@@ -124,19 +127,24 @@ was to put rice into the spots to fill, then pull the rice out and measure how m
 2. [Silicone Graduated Mixing Cups, 3 sizes - Amazon](https://www.amazon.com/iSi-Set-Flexible-Measuring-Cups/dp/B001CDBBY8/ref=sr_1_22?crid=3J36LR5BK2HZZ&keywords=gallon%2BClear%2BGraduated%2Bsilicone%2BMixing%2BCups&qid=1706842631&s=home-garden&sprefix=gallon%2Bclear%2Bgraduated%2Bsilicone%2Bmixing%2Bcups%2Cgarden%2C77&sr=1-22&th=1)
 3. [5 Gallon Plastic Bucket - Zoro](https://www.zoro.com/kraft-tool-mixing-bucket-11-78-in-w-x-15-in-l-5-gal-translucent-plastic-gg468/i/G5067745/?utm_source=google&utm_medium=surfaces&utm_campaign=shopping%20feed&utm_content=free%20google%20shopping%20clicks&campaignid=20749401279&productid=G5067745&v=&gad_source=1&gclid=EAIaIQobChMIpurxytWLhAMV3U9HAR3yqgBSEAQYByABEgLDx_D_BwE&gclsrc=aw.ds)
 4. [64oz Plastic Graduated Mixing Cups - Amazon](https://www.amazon.com/dp/B00A6DGE9C?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
    
 ### Epoxy Mixing Tool
 There's a ton of different ones like this, not sure if there's good/bad ones to look for, I tried these and worked good so far.
 1. [Silicone Mixing Paddles - Amazon](https://www.amazon.com/gp/product/B0BN6V2695/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
+2. [Mixing & Syringes - Health of Mind Art](https://www.healthofmindart.com/collections/mixing-utensils)
 
 ### Silicon Molds
-
 1. [Crafted Elements](https://craftedelements.com/)
 * I haven't ordered from this place, yet, because of the projects I've done but heard great things about them, they have a great story and made in the USA!
-
+  
 2. [Rusty Design-Canada](https://rustydesign.ca/collections/epoxy-silicone-molds)
-
 3. [Amazon-Kalinta](https://www.amazon.com/dp/B0BYTZ2HMM?ref_=cm_sw_r_apin_dp_Z2PKQD75P8BDFF9G0266&language=en-US&fbclid=IwAR3W-UmnUjWQEKasfFz3M7qiuGXaxtT35gTlK4gN-M2ZSy-128oJKeaGhYk&th=1)
+4. [Health of Mind Art](https://www.healthofmindart.com/pages/epoxy-resin-moulds)
+
+### Misc Hardware
+1. [Metal Lazy Susan Base - Amazon](https://www.amazon.com/s?k=lazy+susan+base+aluminum&crid=PNCGN0Q0BCOM&sprefix=lazy+susan+base+aluminum%2Caps%2C119&ref=nb_sb_noss)
+  
 
 ### Pressure Pot (to be used while the epoxy cures)
 1. [Vevor](https://www.amazon.com/s?k=Vevor+pressure+pot&rh=n%3A228013%2Cp_89%3AVEVOR&dc&ds=v1%3AEHKZBfKgeTnHBqo95jY3O0e7reG3ft5u5FTWJDNFL9U&crid=35KCG5BR69QFE&qid=1704435633&rnid=2528832011&sprefix=vevor+pressure+pot%2Caps%2C105&ref=sr_nr_p_89_1)
@@ -234,7 +242,7 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 1. [Flowyline](https://flowyline.com/collections/all?sort_by=best-selling)
 2. [Carolina Leg Co](https://carolinalegco.com/collections/metal-legs)
 3. [Rusty Design-Canada](https://rustydesign.ca/pages/table-legs)
-
+4. [Health of Mind Art](https://www.healthofmindart.com/collections/table-legs)
 
 # Troubleshooting
 
