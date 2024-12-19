@@ -263,3 +263,5 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 * "What would cause the clear epoxy to come out milky color?"
   1. "It's either moisture in the wood, or if you did multiple coats of finish, the previous coat(s) was not fully cured before re-coating."
   2. "Mixed too vigorously micro bubbles"
+  
+{{ page.last_modified_at }}
