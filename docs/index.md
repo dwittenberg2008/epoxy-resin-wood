@@ -264,5 +264,5 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
   1. "It's either moisture in the wood, or if you did multiple coats of finish, the previous coat(s) was not fully cured before re-coating."
   2. "Mixed too vigorously micro bubbles"
   
-This page was last modified on: {- page.date -%}
+This page was last modified on: {%- page.date -%}  
 {{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S" }}
