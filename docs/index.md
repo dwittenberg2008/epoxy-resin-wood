@@ -34,14 +34,16 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 ### Minor scratches and cracks
 1. [Gorilla Clear Epoxy](https://www.gorillatough.com/product/gorilla-epoxy/)
    
-### Tabletop - "Tabletop epoxy is a type of epoxy resin that's used to coat flat surfaces, like tabletops, countertops, and bars, to create a durable, high-gloss finish. It is self-leveling and is usually poured in thin layers, typically 1/4 inch or less. Curing time depends on factors like temperature and humidity, but it's usually around 12-24 hours."  
+### Tabletop - 
+"Tabletop epoxy is a type of epoxy resin that's used to coat flat surfaces, like tabletops, countertops, and bars, to create a durable, high-gloss finish. It is self-leveling and is usually poured in thin layers, typically 1/4 inch or less. Curing time depends on factors like temperature and humidity, but it's usually around 12-24 hours."  
 1. [Stone Coat Countertop](https://www.stonecoatcountertops.com/stone-coat-gallon-kit/)
 2. [TotalBoat](https://www.totalboat.com/products/table-top-epoxy-crystal--resin)
 3. [Rusty Design - Canada](https://rustydesign.ca/collections/epoxy)
 4. [Epodex](https://www.epodex.us/product/countertop-tabletop-epoxy-resin-kit/)
 5. [Ultra Clear Epoxy](https://www.bestbartopepoxy.com/products/epoxy)
 
-### Deep Pour- "Meant for pouring inches thick.  Lower exothermic reaction so good for heat sensitive projects"  
+### Deep Pour-
+"Meant for pouring inches thick.  Lower exothermic reaction so good for heat sensitive projects"  
 1. [Liquid Glass](https://www.amazon.com/stores/FGCI/page/E085BC53-E753-4B20-8A47-EB341E8F79A4?ref_=ast_bln)
 2. [TotalBoat](https://www.totalboat.com/products/thickset-deep-pour-clear-epoxy?variant=43151092318432&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopeSQK4Iz6Yf4ml6_bxTnv03gXV-yo8BwuOSC6Be7hJuiayzF0TQRo)
 3. [Epodex](https://www.epodex.us/product/deep-pour-casting-epoxy-resin-kit/)
