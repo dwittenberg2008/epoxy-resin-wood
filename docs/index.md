@@ -265,4 +265,10 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
   2. "Mixed too vigorously micro bubbles"
   
 This page was last modified on: {%- date -%}  
-{{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S" }}
+{%- assign date_format = site.minima.date_format | default: '%b %-d, %Y' -%}
+
+{%- if page.last_modified_at -%}
+    Last updated: {%- page.last_modified_at | date: date_format -%}
+{%- else -%}
+    Last updated: {%- page.date | date: date_format -%}
+{%- endif -%}
