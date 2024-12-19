@@ -7,12 +7,16 @@
     const day = String(date.getDate()).padStart(2, '0');
     const formattedDate = `${year} ${month} ${day}`;
     document.getElementById("last-modified").textContent = "Last updated on: " + lastModified.toLocaleString();
+    document.getElementById("last-updated").textContent = "Last updated on: " + formattedDate.toLocaleString();
+
   });
 </script>
 
 New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk.  Some of this info has been collected from websites, YouTube, and the [Epoxy Resin Advices and Tips](https://www.facebook.com/groups/3519813941443536) Facebook page.  I've quoted people where I had the quotes that I got them from, sorry if I missed one but send me a correction and I'll get it fixed!
   
 <p id="last-modified"></p>
+  
+<p id="last-updated"></p>
   
 # More Learning Resources
 * [Black Tail Online Class](https://www.blacktailstudio.com/resin-workshops-1) - **NOTE** Watch for the Black Friday sales for the classes, totally worth it!
