@@ -1,5 +1,15 @@
-New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk.  Some of this info has been collected from websites, YouTube, and the [Epoxy Resin Advices and Tips](https://www.facebook.com/groups/3519813941443536) Facebook page.  I've quoted people where I had the quotes that I got them from, sorry if I missed one but send me a correction and I'll get it fixed!
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lastModified = new Date(document.lastModified);
+    document.getElementById("last-modified").textContent =
+      "Last updated on: " + lastModified.toLocaleString();
+  });
+</script>
 
+New site for notes that I've been making while learning about epoxy/resin wood tables and creating my own desk.  Some of this info has been collected from websites, YouTube, and the [Epoxy Resin Advices and Tips](https://www.facebook.com/groups/3519813941443536) Facebook page.  I've quoted people where I had the quotes that I got them from, sorry if I missed one but send me a correction and I'll get it fixed!
+  
+<p id="last-modified"></p>
+  
 # More Learning Resources
 * [Black Tail Online Class](https://www.blacktailstudio.com/resin-workshops-1) - **NOTE** Watch for the Black Friday sales for the classes, totally worth it!
   
@@ -264,12 +274,3 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
   1. "It's either moisture in the wood, or if you did multiple coats of finish, the previous coat(s) was not fully cured before re-coating."
   2. "Mixed too vigorously micro bubbles"
   
-  <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const lastModified = new Date(document.lastModified);
-    document.getElementById("last-modified").textContent =
-      "This page was last modified on: " + lastModified.toLocaleString();
-  });
-</script>
-
-<p id="last-modified"></p>
