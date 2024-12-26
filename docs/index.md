@@ -93,7 +93,7 @@ Some of these tools are optional depending on the project, but I'll list some kn
   
 
 ### Large vacuum
-1. Many shop vacums to choose from, but you should have one with decent capacity and suction power  
+1. Many shop vacuums to choose from, but you should have one with decent capacity and suction power  
 
 ### Router
 1. [Harbor Freight - Hercules](https://www.harborfreight.com/12-amp-variable-speed-fixed-base-router-with-plunge-base-kit-57368.html)
@@ -288,7 +288,7 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
   * "Resin on the resin, glue on the wood"
   
 5. How do you clean off epoxy when done or before another pour on top?
-  * Use 90% isopropyl alcohol to make sure everything else is removed
+  * Use 90% Isopropyl alcohol to make sure everything else is removed
   
 
 * "What would cause the clear epoxy to come out milky color?"
