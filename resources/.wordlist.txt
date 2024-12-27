@@ -12,6 +12,7 @@ DIY
 docx
 Dynatron
 Epodex
+Festool
 FIGHTECH
 Flowyline
 HDPE
@@ -28,6 +29,7 @@ md
 Menards
 microfibre
 mins
+Mirka
 Mladen
 Monocoat
 Nitrile

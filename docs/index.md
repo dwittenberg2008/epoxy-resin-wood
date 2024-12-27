@@ -137,7 +137,9 @@ If there's a heavy amount:
   6. Drill with Nylon wheel/brushes, they aren't as aggressive on the wood
 
 ### Orbital Sander (with dust collector)
-1.  
+1. [Festool](https://www.festoolusa.com/products/surface-preparation/random-orbital-sander/576339---ets-ec1505-eq-plus-us#Overview)
+2. [Mirka](https://beavertools.com/catalogsearch/result/index/?application=2005&brand=6597&cat=34286&power_source=2010&product_type=2008&q=mirka+derios&tool_type=2022&product_list_order=price_asc)
+  
 
 ### Epoxy Spreader
 1. [Amazon - Dynatron](https://www.amazon.com/3M-358-Dynatron-Spreader/dp/B0015DMGD0/ref=sr_1_2?crid=13WEISCSRINXK&keywords=epoxy+resin+spreader+tool&qid=1704350460&sprefix=epoxy+resin+spread%2Caps%2C101&sr=8-2)
@@ -272,6 +274,11 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 2. [Carolina Leg Co](https://carolinalegco.com/collections/metal-legs)
 3. [Rusty Design-Canada](https://rustydesign.ca/pages/table-legs)
 4. [Health of Mind Art](https://www.healthofmindart.com/collections/table-legs)
+
+# Services
+1. [Forged of Wood and Stone](https://www.forgedofwood.com/)
+- Ty was awesome to work with!  Some serivces and wood selection  
+
 
 # Troubleshooting
 
