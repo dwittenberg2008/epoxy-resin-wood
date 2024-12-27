@@ -277,7 +277,7 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 
 # Services
 1. [Forged of Wood and Stone](https://www.forgedofwood.com/)
-- Ty was awesome to work with!  Some serivces and wood selection  
+- Ty was awesome to work with!  Some services and wood selection  
 
 
 # Troubleshooting
