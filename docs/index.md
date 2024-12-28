@@ -111,6 +111,8 @@ Some of these tools are optional depending on the project, but I'll list some kn
 3. [Crafted Elements](https://craftedelements.com/products/router-sled-wood-slab-flattening-mill?variant=44152038326494)
 4. [Stuff 2 Make Stuff](https://s2ms.com/collections/router-sleds)
 5. [Woodpeckers Flatting Mill](https://toolstoday.com/woodpeckers-slbflt-basic-slab-flattening-mill.html)
+6. [Crafted Elements](https://craftedelements.com/collections/router-sleds/products/router-sled-wood-slab-flattening-mill#qvXSgsxWDes)
+  https://craftedelements.com/collections/router-sleds/products/router-sled-wood-slab-flattening-mill#qvXSgsxWDes
 
 ### Router Templates
 1. [Rockler Bow Tie Kit](https://www.rockler.com/rockler-bow-tie-inlay-starter-kit-with-frame-bit-and-bushing)
@@ -274,6 +276,7 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
 2. [Carolina Leg Co](https://carolinalegco.com/collections/metal-legs)
 3. [Rusty Design-Canada](https://rustydesign.ca/pages/table-legs)
 4. [Health of Mind Art](https://www.healthofmindart.com/collections/table-legs)
+5. [Bear Hollow Supply](https://bearhollowsupply.com/collections/cast-iron-table-legs)
 
 # Services
 1. [Forged of Wood and Stone](https://www.forgedofwood.com/)
