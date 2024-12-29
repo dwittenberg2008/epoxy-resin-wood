@@ -33,6 +33,7 @@ I'm sure there are a ton of YouTube videos, most I found skimmed over some parts
 
 ### Minor scratches and cracks
 1. [Gorilla Clear Epoxy](https://www.gorillatough.com/product/gorilla-epoxy/)
+2. [Starbond](https://starbond.com/collections/ca-glue)
    
 ### Tabletop - 
 "Tabletop epoxy is a type of epoxy resin that's used to coat flat surfaces, like tabletops, countertops, and bars, to create a durable, high-gloss finish. It is self-leveling and is usually poured in thin layers, typically 1/4 inch or less. Curing time depends on factors like temperature and humidity, but it's usually around 12-24 hours."  
