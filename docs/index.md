@@ -306,3 +306,5 @@ Always follow the manufacturers cure times for best results!  Like sanding, no s
   1. "It's either moisture in the wood, or if you did multiple coats of finish, the previous coat(s) was not fully cured before re-coating."
   2. "Mixed too vigorously micro bubbles"
   
+* "Advice on using a pressure pot"
+  1. "JC Tremblay - Bought one of these a while ago. I found the best way so far was to warm the epoxy in water for around 20 minutes. Then mix for 2 minutes. Then I poured it into another container that is the same diameter as the tank (fits inside and about 6” high) for another 2 minutes. The larger surface area for the degassing made a huge difference and virtually stopped the bubbles over flowing. Let it run and let the air out slowly a few times and when big bubbles appear and pop u will be close to clear. I let it run the whole time and it took around 10-15 minutes. This worked for me."
