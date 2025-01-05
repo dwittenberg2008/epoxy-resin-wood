@@ -19,6 +19,8 @@ Flowyline
 HDPE
 Hofman
 Howards
+http
+https
 Isopropyl
 JC
 jpg
@@ -46,6 +48,7 @@ Polyx
 POWERTEC
 PPE
 pre
+qvXSgsxWDes
 Rockler
 Rubio
 Sakotic
