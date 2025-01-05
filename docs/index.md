@@ -114,6 +114,8 @@ Some of these tools are optional depending on the project, but I'll list some kn
 5. [Woodpeckers Flatting Mill](https://toolstoday.com/woodpeckers-slbflt-basic-slab-flattening-mill.html)
 6. [Crafted Elements](https://craftedelements.com/collections/router-sleds/products/router-sled-wood-slab-flattening-mill#qvXSgsxWDes)
   https://craftedelements.com/collections/router-sleds/products/router-sled-wood-slab-flattening-mill#qvXSgsxWDes
+7. [TrueTrac](https://truetrac.com/collections/router-gantry-system-slab-flattening-router-mills)
+  
 
 ### Router Templates
 1. [Rockler Bow Tie Kit](https://www.rockler.com/rockler-bow-tie-inlay-starter-kit-with-frame-bit-and-bushing)

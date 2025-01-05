@@ -7,6 +7,7 @@ Blacktail
 Bowtie
 Countertop
 countertops
+craftedelements
 dev
 DIY
 docx
@@ -19,6 +20,7 @@ HDPE
 Hofman
 Howards
 Isopropyl
+JC
 jpg
 Kalinta
 Kreg
@@ -53,6 +55,8 @@ Starbond
 titlepage
 toc
 TotalBoat
+Tremblay
+TrueTrac
 Tyvek
 Upcut
 Vacum
