@@ -112,8 +112,7 @@ Some of these tools are optional depending on the project, but I'll list some kn
 3. [Crafted Elements](https://craftedelements.com/products/router-sled-wood-slab-flattening-mill?variant=44152038326494)
 4. [Stuff 2 Make Stuff](https://s2ms.com/collections/router-sleds)
 5. [Woodpeckers Flatting Mill](https://toolstoday.com/woodpeckers-slbflt-basic-slab-flattening-mill.html)
-6. [Crafted Elements](https://craftedelements.com/collections/router-sleds/products/router-sled-wood-slab-flattening-mill#qvXSgsxWDes)
-7. [TrueTrac](https://truetrac.com/collections/router-gantry-system-slab-flattening-router-mills)
+6. [TrueTrac](https://truetrac.com/collections/router-gantry-system-slab-flattening-router-mills)
   
 
 ### Router Templates
